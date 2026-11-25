@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS / Editor temp files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# Unity / Blender local temp outputs
+Temp/
+*.blend1
+*.blend2
+*.meta

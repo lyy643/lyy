@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "avatar_name": "MyVrcAvatar",
+  "target_platform": "pc_only",
+  "quality_policy": "quality_first_unlimited_tris",
+  "modeling_route": "tripo_or_meshy",
+  "shader_choice": "lilToon",
+  "assembly_framework": "modular_avatar",
+  "mcp_availability": {
+    "blender_mcp": false,
+    "unity_mcp": false,
+    "windows_mcp": false
+  },
+  "assets": {
+    "concept_front": "",
+    "concept_back": "",
+    "readonly_raw_model": "",
+    "working_blend_dir": "",
+    "exported_fbx": "",
+    "unity_project_path": "",
+    "unity_prefab_pc": "",
+    "unity_prefab_quest": ""
+  },
+  "stages": {
+    "stage_1_concept_and_generation": {
+      "status": "pending",
+      "gate_passed": false,
+      "notes": ""
+    },
+    "stage_2_blender_cleanup_and_texturing": {
+      "status": "pending",
+      "gate_passed": false,
+      "audit_json": "",
+      "notes": ""
+    },
+    "stage_3_humanoid_rigging_and_blendshapes": {
+      "status": "pending",
+      "gate_passed": false,
+      "audit_json": "",
+      "has_15_visemes": false,
+      "has_eye_blink_and_look": false,
+      "has_arkit_52": false,
+      "notes": ""
+    },
+    "stage_4_unity_setup_and_shaders": {
+      "status": "pending",
+      "gate_passed": false,
+      "audit_json": "",
+      "notes": ""
+    },
+    "stage_5_modular_avatar_and_physbones": {
+      "status": "pending",
+      "gate_passed": false,
+      "ma_components_verified": false,
+      "physbones_verified": false,
+      "notes": ""
+    },
+    "stage_6_qa_and_delivery": {
+      "status": "pending",
+      "gate_passed": false,
+      "pc_verified": false,
+      "quest_verified": false,
+      "screenshots_taken": 0,
+      "notes": ""
+    }
+  }
+}
